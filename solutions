@@ -1,2 +1,9 @@
 SOLUTIONS
+
+Problem 41:
+(a) False. Counter example: 1/x
+(b) False. Counter example: f(x) = -1/x, g(x) = 1/(x^2)
+(c) True. By properties of definite integrals.
+(d) True. By comparison test.
+
 Problem 42: m = 1 - 2^(-1/3)
